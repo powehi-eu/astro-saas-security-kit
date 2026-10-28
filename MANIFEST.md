@@ -1,0 +1,46 @@
+# Manifest — Astro SaaS Security Kit v0.1.0
+
+| Fichier | SHA-256 |
+|---|---|
+| `CHANGELOG.md` | `b3aeeb2e5e116f8177a974db24e1ebb70177f90631a675272299843d7f428dca` |
+| `checklists/ai-safe-use.md` | `8882f406a6d1e795cffbbb844994bf4746fa052290227a608dad4de36f674418` |
+| `checklists/api.md` | `4068a25af8d176c46772961ce0009a07c82c0a9e2955a8c58b3c5e09892a3c46` |
+| `checklists/astro-config.md` | `acc1af0b3bed96bfe410f3107753f274225eb213e6ce4b3ad46ea761ea6196da` |
+| `checklists/authentication.md` | `341658707c6551b1488bc9df9a2bd066b0ab7b8090e845f2da466e13514b101e` |
+| `checklists/authorization.md` | `21e4798adc8e6221bc70beb186d16bf9f1313009f298ea2d9883fad6538daa6d` |
+| `checklists/database.md` | `dbc57c6cb5b447c72ee4cd4d802a90a980d0a68be5efaf240dfe7997fe4f542b` |
+| `checklists/deployment.md` | `8f813654a552763f6fa464ce4e79c36e4ae59fe318a5e4b6b04480fba5ceb7cc` |
+| `checklists/incident-response.md` | `144e091f15c73986a44fc5c5a06364bd30c75df03d7e44e20518e7c17682f0d2` |
+| `checklists/pre-release.md` | `8421ae709304cf12492332de173c104a212781c6bce05733ee125ef5b1092dd7` |
+| `checklists/privacy.md` | `200af4f266a3de4e25390dfa84dc36471019e0ebfdde78cf484edfe2992356d7` |
+| `LICENSE` | `8d9e551af205fde7f4f70772fc8c94023812f340be9c106c44746dc8307e9828` |
+| `prompts/00-system-security-reviewer.md` | `324e7725651683a309a6ad495bd083beded660db52b20e9de7c07693a1a4948c` |
+| `prompts/01-threat-model.md` | `1658f478a5868df0a576d300bb0072e41b16cd826d1e34bc439061f9d7b27b1e` |
+| `prompts/02-authentication-review.md` | `f7ef89fd3b8440d3a508ad99865923054c833cf8839e4df608c0ba2145d05e22` |
+| `prompts/03-authorization-review.md` | `9d15358c49ea0c4d4881b213fa06a3b09a54978740263667ce229bf4b712ae24` |
+| `prompts/04-session-cookies.md` | `a42147c6ba54224c80522c52bbf2b25f9f0be755bab7838fbe101200b1718559` |
+| `prompts/05-input-validation.md` | `e6e3374cd1956fe72cc7000afc84e431d8cca2e451f51a703af95cef8e06f990` |
+| `prompts/06-xss-csp.md` | `154b65f9ee6f3ecd2e27916c811068b7bcbb626372ed44f5168be9c632a05bd7` |
+| `prompts/07-csrf-cors.md` | `5d2f436b2eb3bb82c294dcd3e8f89e57b8a9f8dc971233b3820e77be52d95028` |
+| `prompts/08-api-security.md` | `1d6e9f083acc9a80cb6a1fdd3d0cdf56290da77573ee48aeae77925aede9bb90` |
+| `prompts/09-database-tenant-isolation.md` | `bd9ff96ad0589f0f065cb79a1b88d9cdcd8bbd6da1c3253fd450b828fc7bb719` |
+| `prompts/10-file-upload.md` | `bc476b55fde88276526f43afc0dc374ad63d8e6c2cf3805db2dc46ee9292969c` |
+| `prompts/11-webhooks.md` | `e20a2429fdd4dd19c8f1af61b4ec972e5f2b5cf9acf0a4a1b201310bddd4f658` |
+| `prompts/12-payments.md` | `d5d7cfca7ceec967f37685ed886c9ded3d58c5ef30035d678bd1c450ef60ac56` |
+| `prompts/13-secrets-env.md` | `970fe91ffee294c4e71f60c6b1344c0fd53d0d2b85d036176dd1b5e7814c1e6a` |
+| `prompts/14-dependencies-supply-chain.md` | `ea1dbc536fcabf5c8ee7536f36efe32afadc1b37e94747b31e6a9d438bff8c16` |
+| `prompts/15-security-headers.md` | `555292b7bbb1129b54fce94b8624aa62fe625cf92a87687b9591b9d5d02e0098` |
+| `prompts/16-logging-monitoring.md` | `6a6a120de69624381a906a97efff6aac476c11cda0e35330a0bca971e853d386` |
+| `prompts/17-error-handling.md` | `c8237543df81d69f1fbc97fd5f3c29f2db1f5b4b2e84ac95450d100138b2c889` |
+| `prompts/18-rate-limiting-abuse.md` | `7e89807e3dd3a87bf29536bcdc4e2ed6057028de301e632554feae585d66fabe` |
+| `prompts/19-ci-cd-review.md` | `829c7535525ed3ad57e5727fbaee75c7845aeb8beb63cc61834b880786b1a691` |
+| `QUICKSTART.md` | `1b996cd932e17e50ba7c9313c77e809a12db67036d8edfbd480e89f199e828e9` |
+| `README.md` | `111b0029f478b9a98ccb399bca0fa863a9fe14a34eb9f56a3d3669cfd288dda7` |
+| `references/owasp-map.md` | `9a60211b26f1d4c8dfd2edd8e3ac30da1df2a22f1e5fb7b2973791c46dc9d6db` |
+| `SECURITY.md` | `3ab9cdd61a34e2d60e18457c0a820cf7addf56ba96ecd14b881bb808bb417bcf` |
+| `templates/env.example` | `d83c1a1b0c80b2f5dc7c094edbb569f9efb6a4b1c131be6ef7d971bd35646fde` |
+| `templates/incident-runbook.md` | `dcb7c8adcb05167aac4c87cf0f0f4aec8d9312cb593101e0ad0fc7f7a0098e6f` |
+| `templates/responsible-disclosure.md` | `b0ff6ed3045bf02284c5aae0205142d8fbef6e72637fc37180161c0c8b20ff05` |
+| `templates/security-issue.md` | `7dd5683278b95303cd61810098e0c28ee0b72a446425f1b1c1481aa18544f14b` |
+| `templates/security-review-report.md` | `caf008e393c69d272e4405def8501c7e4617065b0c7b90ab76cecbfab95ae2f4` |
+| `templates/threat-model.md` | `dff8aca1e8d52606f869ca277d10e611a1b2e14e2b3381e915bcf60ae4f959e0` |
