@@ -35,7 +35,7 @@
 | `prompts/18-rate-limiting-abuse.md` | `7e89807e3dd3a87bf29536bcdc4e2ed6057028de301e632554feae585d66fabe` |
 | `prompts/19-ci-cd-review.md` | `829c7535525ed3ad57e5727fbaee75c7845aeb8beb63cc61834b880786b1a691` |
 | `QUICKSTART.md` | `1b996cd932e17e50ba7c9313c77e809a12db67036d8edfbd480e89f199e828e9` |
-| `README.md` | `111b0029f478b9a98ccb399bca0fa863a9fe14a34eb9f56a3d3669cfd288dda7` |
+| `README.md` | `368d44c4e60e9e25d0840f247893593cd6962927ad30e0d34d7e30be1eae539b` |
 | `references/owasp-map.md` | `9a60211b26f1d4c8dfd2edd8e3ac30da1df2a22f1e5fb7b2973791c46dc9d6db` |
 | `SECURITY.md` | `3ab9cdd61a34e2d60e18457c0a820cf7addf56ba96ecd14b881bb808bb417bcf` |
 | `templates/env.example` | `d83c1a1b0c80b2f5dc7c094edbb569f9efb6a4b1c131be6ef7d971bd35646fde` |
